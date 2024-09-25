@@ -1,2 +1,1 @@
-Escrevendo texto para o readme
-alterando novamente
+teste para verificar o funcionamento do git na maquina
